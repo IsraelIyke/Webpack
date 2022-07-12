@@ -1,0 +1,1 @@
+Folder holds public images and icons

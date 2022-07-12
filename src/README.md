@@ -1,0 +1,1 @@
+Folder holds .Jsx/js, .css and .html files
